@@ -83,7 +83,7 @@
 
 
 #### Card Viewer Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Bank%20Card)
-![cardAnimation](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/cards.gif)
+![cardAnimation](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/cards.gif)
 
 
 
@@ -95,7 +95,7 @@
 
 
 #### Light Switch | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/LightSwitch)
-![lightswitch](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/lightswitch.gif?raw=true)
+![lightswitch](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/lightswitch.gif?raw=true)
 
 
 
