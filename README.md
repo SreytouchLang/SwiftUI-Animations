@@ -113,10 +113,3 @@
 ![triangleLoader](https://raw.githubusercontent.com/Shubham0812/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/triLoader.gif)
 
 [**Link for Code**](https://github.com/Shubham0812/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/TriangleLoader)
-
-
-## Spread the word!
-Liked the project? Just give it a star ⭐️ and spread the word!
-
-## Credits
-© Shubham Kumar Singh | 2021
