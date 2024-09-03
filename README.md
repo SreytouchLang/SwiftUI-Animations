@@ -1,8 +1,3 @@
-## Reach me via 👇🏻
-
-[![Instagram](https://raw.githubusercontent.com/Shubham0812/SearchX/master/insta.png)](https://www.instagram.com/shubham_iosdev/) [![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/shubham0812/)
-
-
 ## Animations
 
 #### Add to cart button
