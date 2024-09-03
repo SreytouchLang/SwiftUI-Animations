@@ -21,7 +21,7 @@
 
 
 #### Loader Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Loader)
-![Loader](https://github.com/SreytouchLang/SwiftUI-Animations/blob/master/SwiftUI-Animations/GIFs/loader.gif)
+![Loader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/loader.gif)
 
 
 
@@ -83,25 +83,25 @@
 
 
 #### Card Viewer Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Bank%20Card)
-![cardAnimation](https://github.com/SreytouchLang/SwiftUI-Animations/blob/master/SwiftUI-Animations/GIFs/cards.gif)
+![cardAnimation](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/cards.gif)
 
 
 
 
 #### Infinity Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/InfinityLoader)
-![infinityLoader](https://github.com/SreytouchLang/SwiftUI-Animations/blob/master/SwiftUI-Animations/GIFs/infinity.gif)
+![infinityLoader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/infinity.gif)
 
 
 
 
 #### Light Switch | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/LightSwitch)
-![lightswitch](https://github.com/SreytouchLang/SwiftUI-Animations/blob/master/SwiftUI-Animations/GIFs/lightswitch.gif?raw=true)
+![lightswitch](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/lightswitch.gif?raw=true)
 
 
 
 
 #### Spinning Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/SpinningLoader)
-![spinningLoader](https://github.com/SreytouchLang/SwiftUI-Animations/blob/master/SwiftUI-Animations/GIFs/spinningloader.gif)
+![spinningLoader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/spinningloader.gif)
 
 
 
