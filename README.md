@@ -21,7 +21,7 @@
 
 
 #### Loader Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Loader)
-![Loader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/loader.gif)
+![Loader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/loader.gif)
 
 
 
@@ -89,7 +89,7 @@
 
 
 #### Infinity Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/InfinityLoader)
-![infinityLoader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/infinity.gif)
+![infinityLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/infinity.gif)
 
 
 
@@ -101,7 +101,7 @@
 
 
 #### Spinning Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/SpinningLoader)
-![spinningLoader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/spinningloader.gif)
+![spinningLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/spinningloader.gif)
 
 
 
