@@ -1,84 +1,84 @@
 ## Animations
 
 #### Add to cart button | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Cart)
-![Cart view](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/cart.gif?token=AEX3IM6G5W5E5SXZNCXDOAK7FQLG2)
+![Cart view](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/cart.gif?token=AEX3IM6G5W5E5SXZNCXDOAK7FQLG2)
 
 
 
 
 #### Chat Bar Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/ChatBar)
-![Chat Bar](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/chat-bar.gif)
+![Chat Bar](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/chat-bar.gif)
 
 
 
 
 
 #### Wi-Fi connectivity Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Wifi)
-![Wi-Fi Signal](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/wifi.gif)
+![Wi-Fi Signal](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/wifi.gif)
 
 
 
 
 
 #### Loader Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Loader)
-![Loader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/loader.gif)
+![Loader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/loader.gif)
 
 
 
 
 
 #### AddItem Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/AddView)
-![addItem](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/addView.gif)
+![addItem](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/addView.gif)
 
 
 
 
 #### Circle Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/CircleLoader)
-![circle loader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/circle-loader.gif)
+![circle loader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/circle-loader.gif)
 
 
 
 
 #### Pill Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/PillLoader)
-![pill loader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/pill-loader.gif)
+![pill loader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/pill-loader.gif)
 
 
 
 
 
 #### Like | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/Like)
-![like](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/likeVIew.gif)
+![like](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/likeVIew.gif)
 
 
 
 
 
 #### Submit Button | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/SubmitView)
-![submitButton](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/submit-button.gif)
+![submitButton](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/submit-button.gif)
 
 
 
 
 #### Github Octocat Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/GithubLoader)
-![octocatLoader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/github-loader.gif)
+![octocatLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/github-loader.gif)
 
 
 
 
 #### 3-D Rotating Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/3dLoader)
-![rotatingLoader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/3-d-Loader.gif)
+![rotatingLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/3-d-Loader.gif)
 
 
 
 
 #### Animated Login Flow | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/LoginView)
-![rotatingLoader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/login.gif)
+![rotatingLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/login.gif)
 
 
 
 
 #### Book loading Animation | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/BookLoader)
-![bookLoadingAnimation](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/book-loader.gif)
+![bookLoadingAnimation](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/book-loader.gif)
 
 
 
@@ -89,7 +89,7 @@
 
 
 #### Infinity Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/InfinityLoader)
-![infinityLoader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/infinity.gif)
+![infinityLoader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/infinity.gif)
 
 
 
@@ -101,18 +101,18 @@
 
 
 #### Spinning Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/SpinningLoader)
-![spinningLoader](https://github.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/spinningloader.gif)
+![spinningLoader]((https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/spinningloader.gif)
 
 
 
 
 #### Download Button | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/DownloadButton)
-![downloadButton](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/downloadButton.gif)
+![downloadButton](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/downloadButton.gif)
 
 
 
 
 #### Triangle Loader | [**Link for Code**](https://github.com/SreytouchLang/SwiftUI-Animations/tree/master/SwiftUI-Animations/Code/Animations/TriangleLoader)
-![triangleLoader](https://github.com/SreytouchLang/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/triLoader.gif)
+![triangleLoader](https://raw.githubusercontent.com/SreytouchLang/SwiftUI-Animations/master/SwiftUI-Animations/GIFs/triLoader.gif)
 
 
